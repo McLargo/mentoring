@@ -38,6 +38,6 @@ evoluciona junto con la persona y el Proceso de Mentoring.
 
 ## Plantilla de registro de los componentes del Plan de Acción
 
-| Objetivo <br />¿Qué quieres conseguir? | Acciones<br /> ¿Qué vas a hacer para conseguirlo? | Evidencias de resultado<br /> ¿Cómo sabrás que los has conseguido?      |  Temporización<br /> ¿Cuándo estará hecho? |
-|----------|:-------------:|------:|------:|
+|Objetivo<br/>¿Qué quieres conseguir?|Acciones<br />¿Qué vas a hacer para conseguirlo?|Evidencias de resultado<br />¿Cómo sabrás que los has conseguido?|Temporización<br />¿Cuándo estará hecho?|
+|:----------:|:-------------:|:------:|:------:|
 |  |   |  |   |

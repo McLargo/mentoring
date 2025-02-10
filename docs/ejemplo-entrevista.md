@@ -71,8 +71,7 @@ ej: has trabajado con github? No me suena, puedes explicarme que és?
 
 - Ser curiosas, quedaros siempre con alguna pregunta para el/la entrevistador/a.
   Se agradece, se demuestra personalidad y carácter.
-- preguntar por salario, siguientes etapas de la entrevista, cursos de
-  formación...
+- preguntar por salario, siguientes etapas de la entrevista, cursos de formación...
 - **no os vayáis con dudas**
 - lo que no se haya sabido responder, o haya generado dudas, son tareas para la
   siguiente vez estar aún más preparada.
